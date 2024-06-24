@@ -1,1 +1,22 @@
-Hola Mundo
+
+Los scripts usados para el proyecto una vez que se descargó el archivo de las secuencias,son:
+(\w+\.)\w+ 
+Este comando fue usado para eliminar el texto que se encontraba anterior a la especie
+(PREDICTED\:)
+apolipoprotein E
+(APOE)
+Estos 3 comandos se escribieron para eliminar estas palabras del texto, puesto que se encontraban en múltiples lugares
+, transcript variant \d+
+, transcript variant X\d,
+Mediante estos dos comandos se elimino parte del texto y números
+b-like
+[()]
+Este comando permitió eliminar el paréntesis
+,
+Escribiendo la coma en find se logró eliminarla del texto
+a a
+LOC\d+
+b
+Se remplazó los espacios colocando ( ) en Find, y en replace _
+ Estos comandos se utilizaron en el programa Sublime
+Fueron escritos en la parte de find los comandos, con excepción del que se escribió también en replace
