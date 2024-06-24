@@ -23,8 +23,11 @@ En la carpeta Scripts, se encuentra el código usado para este proyecto
 En la carpeta Results, se encuentra un archivo con las secuencias con sus nombres editados.
 
 Bibliografía
+
  Miao, G., Zhuo, D ., Han, X., Yao, W., Liu, C., Liu, H., Cao, H., Sun, Y., Chen, Z. y Feng, T. (2023). From degenerative disease to malignant tumors: Insight to the function of ApoE. Biomedicine & Pharmacotherapy, 158(114127). https://doi.org/10.1016/j.biopha.2022.114127
+
  NCBI. (s.f.). APOE - apolipoprotein E. https://www.ncbi.nlm.nih.gov/gene/348/ortholog/?scope=117570
+
 Velasco, R. (2014). Qué son las Regular Expressions y cómo se utilizan. https://www.redeszone.net/2014/07/23/que-son-las-regular-expressions-y-como-se-utilizan/
 
 Se usó el programa Sublime.text
